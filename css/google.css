@@ -1,0 +1,182 @@
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.search{
+    border-collapse: separate;
+    text-indent: initial;
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    background-color: #EEEEEE;
+    text-align: start;
+    border-spacing: 2px;
+    font-variant: normal;
+    padding: 1px;
+    width: 1481px;
+    height: 60px;
+    margin: auto;
+    margin: 0px auto 1000px auto;
+}
+
+.text{
+    text-align: center;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+.searchBar{
+    margin: 0 auto;
+    display: inline-block;
+    display: flex;
+    width: 313px;
+    height: 15px;
+    position: relative;
+    top: -17px;
+}
+
+.input{
+        text-rendering: auto;
+        letter-spacing: normal;
+        word-spacing: normal;
+        line-height: normal;
+        text-transform: none;
+        text-indent: 0px;
+        text-shadow: none;
+        display: inline-block;
+        text-align: start;
+        appearance: auto;
+        cursor: text;
+        margin: 0em;
+        padding: 1px 2px;
+        border-width: 2px;
+        border-style: inset;
+        border-image: initial;
+
+}
+
+.searchBtn{
+    /* text-align: center;
+    margin: auto;
+    display: flex;
+    display: grid;
+    padding: 1px 6px; */
+}
+
+.luckyBtn{
+    
+}
+
+.box1{
+    background-color: #7EE5DA;
+    width: 37%;
+    height: 100%;
+    float: left;
+    margin-top: 0px;
+    text-align: center;
+    padding: 11px 0px;
+    position: relative;
+    top: -33px;
+}
+
+.box2{
+    background-color: #70CCC2;
+    width: 288px;
+    height: 76px;
+    float: left;
+    text-align: center;
+    font-size: 13px;
+    margin: 0 2px 0 2px;
+    padding: 6px 0 0 0px;
+    position: relative;
+    top: -33px;
+        
+    
+}
+
+.box3{
+    background-color: #62B3AA;
+    width: 641px;
+    height: 76px;
+    float: left;
+    padding: 6px 0px 0px 0px;
+    position: relative;
+    top: -33px;
+    
+}
+
+.container{
+    margin: 0 auto;
+}
+
+.ikiButon div{
+    display: flex;
+    margin: auto;
+    align-items: flex-start;
+    position: relative;
+    top: -35px;
+}
+
+.ikiButon{
+    display: flex;
+    margin: auto;
+    align-items: flex-start;
+    position: relative;
+    top: -35px;
+    left: 630px;
+}
+
+.enDıs{
+    /* border-style: dashed;
+    border-color: crimson; */
+}
+
+.under{
+    text-decoration: none;
+    text-emphasis-color: black;
+    text-transform: none;
+    text-decoration-skip: inherit;
+    text-decoration-line: none;
+    color: black;
+}
+
+.getGoogle{
+    text-align: center;
+    font-size: 13px;
+    padding-top: -100px;
+    position: relative;
+    top: -14px;
+}
+
+.getUpdates{
+    text-align: center;
+    font-size: 13px;
+    position: relative;
+    top: -25px;
+}
+
+.miniBar{
+    margin-left: 233px;
+    display: flex;
+    margin-top: -39px;
+}
+
+.subBtn{
+    margin-left: 260px;
+}
+
+.archiveTxt{
+    font-size: 13px;
+}
+
+.footer{
+    font-size: small;
+    text-align: center;
+    position: relative;
+    top: -16px;
+    margin-top: 20px;
+}
